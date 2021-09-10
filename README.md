@@ -1,3 +1,4 @@
-## Readme
+## About me
 
-:coffee: Currently taking classes at [Foothill](https://foothill.edu) :owl:
+Currently taking classes at [Foothill](https://foothill.edu)
+Worked at HP, 3Com, SGI, Xerox

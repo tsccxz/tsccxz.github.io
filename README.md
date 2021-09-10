@@ -1,3 +1,3 @@
 ## Readme
 
-:coffee: Currently taking classes at Foothill :owl:
+:coffee: Currently taking classes at [Foothill](https://foothill.edu) :owl:
